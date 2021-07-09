@@ -1,98 +1,98 @@
 /*-----------------------------------------------------------------------------------
 
-	Theme Name: Canvas
-	Theme URI: http://themes.semicolonweb.com/html/canvas
-	Description: The Multi-Purpose Template
-	Author: SemiColonWeb
-	Author URI: http://themeforest.net/user/semicolonweb
-	Version: 5.2.1
+    Theme Name: Canvas
+    Theme URI: http://themes.semicolonweb.com/html/canvas
+    Description: The Multi-Purpose Template
+    Author: SemiColonWeb
+    Author URI: http://themeforest.net/user/semicolonweb
+    Version: 5.2.1
 
 -----------------------------------------------------------------------------------*/
 
 
 /* ----------------------------------------------------------------
 
-	- Basic
-	- Typography
-	- Basic Layout Styles
-	- Helper Classes
-	- Sections
-	- Columns & Grids
-	- Flex Slider
-	- Swiper Slider
-	- Top Bar
-	- Header
-		- Logo
-		- Primary Menu
-		- Mega Menu
-		- Top Search
-		- Top Cart
-		- Sticky Header
-		- Page Menu
-		- Side Header
-	- Side Panel
-	- Slider
-	- Page Title
-	- Content
-	- Portfolio
-	- Blog
-	- Shop
-	- Events
-	- Shortcodes
-		- Countdown
-		- Buttons
-		- Promo Boxes
-		- Featured Boxes
-		- Process Steps
-		- Styled Icons
-		- Toggles
-		- Accordions
-		- Tabs
-		- Side Navigation
-		- FAQ List
-		- Clients
-		- Testimonials
-		- Team
-		- Pricing Boxes
-		- Counter
-		- Animated Rounded Skills
-		- Skills Bar
-		- Dropcaps & Highlights
-		- Quotes & Blockquotes
-		- Text Rotater
-	- Owl Carousel
-	- Overlays
-	- Forms
-	- Google Maps
-	- Heading Styles
-	- Divider
-	- Magazine Specific Classes
-	- Go To Top
-	- Error 404
-	- Landing Pages
-	- Preloaders
-	- Toastr Notifications
-	- Footer
-	- Widgets
-		- Tag Cloud
-		- Links
-		- Testimonial & Twitter
-		- Quick Contact Form
-		- Newsletter
-		- Twitter Feed
-		- Navigation Tree
-	- Wedding
-	- Bootstrap Specific
-	- Cookie Notification
-	- Stretched Layout
-	- Page Transitions
-	- Youtube Video Backgrounds
+    - Basic
+    - Typography
+    - Basic Layout Styles
+    - Helper Classes
+    - Sections
+    - Columns & Grids
+    - Flex Slider
+    - Swiper Slider
+    - Top Bar
+    - Header
+        - Logo
+        - Primary Menu
+        - Mega Menu
+        - Top Search
+        - Top Cart
+        - Sticky Header
+        - Page Menu
+        - Side Header
+    - Side Panel
+    - Slider
+    - Page Title
+    - Content
+    - Portfolio
+    - Blog
+    - Shop
+    - Events
+    - Shortcodes
+        - Countdown
+        - Buttons
+        - Promo Boxes
+        - Featured Boxes
+        - Process Steps
+        - Styled Icons
+        - Toggles
+        - Accordions
+        - Tabs
+        - Side Navigation
+        - FAQ List
+        - Clients
+        - Testimonials
+        - Team
+        - Pricing Boxes
+        - Counter
+        - Animated Rounded Skills
+        - Skills Bar
+        - Dropcaps & Highlights
+        - Quotes & Blockquotes
+        - Text Rotater
+    - Owl Carousel
+    - Overlays
+    - Forms
+    - Google Maps
+    - Heading Styles
+    - Divider
+    - Magazine Specific Classes
+    - Go To Top
+    - Error 404
+    - Landing Pages
+    - Preloaders
+    - Toastr Notifications
+    - Footer
+    - Widgets
+        - Tag Cloud
+        - Links
+        - Testimonial & Twitter
+        - Quick Contact Form
+        - Newsletter
+        - Twitter Feed
+        - Navigation Tree
+    - Wedding
+    - Bootstrap Specific
+    - Cookie Notification
+    - Stretched Layout
+    - Page Transitions
+    - Youtube Video Backgrounds
 
 ---------------------------------------------------------------- */
 
 
 /* ----------------------------------------------------------------
-	Bootstrap Adjustments
+    Bootstrap Adjustments
 -----------------------------------------------------------------*/
 
 @media (min-width: 576px) {
@@ -126,7 +126,7 @@ body,
 
 
 /* ----------------------------------------------------------------
-	Basic
+    Basic
 -----------------------------------------------------------------*/
 
 dl,
@@ -150,7 +150,7 @@ li {
 }
 
 ::selection {
-    background: #1ABC9C;
+    background: #00a2e2;
     color: #FFF;
     text-shadow: none;
 }
@@ -176,7 +176,7 @@ li {
 
 
 /* ----------------------------------------------------------------
-	Typography
+    Typography
 -----------------------------------------------------------------*/
 
 body {
@@ -208,7 +208,7 @@ iframe {
 
 
 /* ----------------------------------------------------------------
-	Basic Layout Styles
+    Basic Layout Styles
 -----------------------------------------------------------------*/
 
 h1,
@@ -291,7 +291,7 @@ small {
 
 
 /* ----------------------------------------------------------------
-	Helper Classes
+    Helper Classes
 -----------------------------------------------------------------*/
 
 .uppercase {
@@ -795,7 +795,7 @@ span.middot {
 
 
 /* ----------------------------------------------------------------
-	Sections
+    Sections
 -----------------------------------------------------------------*/
 
 .section {
@@ -843,7 +843,7 @@ span.middot {
 
 
 /* ----------------------------------------------------------------
-	Columns & Grids
+    Columns & Grids
 -----------------------------------------------------------------*/
 
 .col_full {
@@ -942,7 +942,7 @@ body.stretched .container-fullwidth {
 
 
 /* ----------------------------------------------------------------
-	Flex Slider
+    Flex Slider
 -----------------------------------------------------------------*/
 
 .fslider,
@@ -1066,7 +1066,7 @@ html[xmlns] .slider-wrap {
 
 
 /* ----------------------------------------------------------------
-	Top Bar
+    Top Bar
 -----------------------------------------------------------------*/
 
 #top-bar {
@@ -1306,7 +1306,7 @@ html[xmlns] .slider-wrap {
 
 
 /* ----------------------------------------------------------------
-	Header
+    Header
 -----------------------------------------------------------------*/
 
 #header {
@@ -1387,7 +1387,7 @@ body.stretched #header.full-header .container {
 
 
 /* ----------------------------------------------------------------
-	Logo
+    Logo
 -----------------------------------------------------------------*/
 
 #logo {
@@ -1429,7 +1429,7 @@ body.stretched #header.full-header .container {
 
 
 /* ----------------------------------------------------------------
-	Header Right Area
+    Header Right Area
 -----------------------------------------------------------------*/
 
 .header-extras {
@@ -1469,7 +1469,7 @@ body.stretched #header.full-header .container {
 
 
 /* ----------------------------------------------------------------
-	Primary Menu
+    Primary Menu
 -----------------------------------------------------------------*/
 
 #primary-menu {
@@ -1654,7 +1654,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content {
 
 
 /* ----------------------------------------------------------------
-	Mega Menu
+    Mega Menu
 -----------------------------------------------------------------*/
 
 #primary-menu ul li .mega-menu-content,
@@ -2142,7 +2142,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #primary-menu.style-2.cente
 
 
 /* ----------------------------------------------------------------
-	Top Search
+    Top Search
 -----------------------------------------------------------------*/
 
 #top-search,
@@ -2277,7 +2277,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
 
 
 /* ----------------------------------------------------------------
-	Top Cart
+    Top Cart
 -----------------------------------------------------------------*/
 
 #top-cart {
@@ -2430,7 +2430,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
 
 
 /* ----------------------------------------------------------------
-	Top Account
+    Top Account
 -----------------------------------------------------------------*/
 
 #top-account {
@@ -2478,7 +2478,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
 
 
 /* ----------------------------------------------------------------
-	Sticky Header
+    Sticky Header
 -----------------------------------------------------------------*/
 
 #header,
@@ -2686,7 +2686,7 @@ body.top-search-open #top-account {
 
 
 /* ----------------------------------------------------------------
-	Page Menu
+    Page Menu
 -----------------------------------------------------------------*/
 
 #page-menu,
@@ -2930,7 +2930,7 @@ body:not(.device-touch) #page-menu nav li a {
 
 
 /* ----------------------------------------------------------------
-	One Page
+    One Page
 -----------------------------------------------------------------*/
 
 .one-page-arrow {
@@ -2948,7 +2948,7 @@ body:not(.device-touch) #page-menu nav li a {
 
 
 /* ----------------------------------------------------------------
-	Side Header
+    Side Header
 -----------------------------------------------------------------*/
 
 @media (min-width: 992px) {
@@ -3185,7 +3185,7 @@ body:not(.device-touch) #page-menu nav li a {
 
 
 /* ----------------------------------------------------------------
-	Side Push Panel
+    Side Push Panel
 -----------------------------------------------------------------*/
 
 body.side-push-panel {
@@ -3330,7 +3330,7 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
 
 
 /* ----------------------------------------------------------------
-	Slider
+    Slider
 -----------------------------------------------------------------*/
 
 .slider-element {
@@ -3894,7 +3894,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner {
 
 
 /* ----------------------------------------------------------------
-	Page Title
+    Page Title
 -----------------------------------------------------------------*/
 
 #page-title {
@@ -4122,7 +4122,7 @@ body.stretched .container-fullwidth .breadcrumb {
 
 
 /* ----------------------------------------------------------------
-	Content
+    Content
 -----------------------------------------------------------------*/
 
 #content {
@@ -4157,7 +4157,7 @@ body:not(.device-touch) .grid-container {
 
 
 /* ----------------------------------------------------------------
-	Portfolio
+    Portfolio
 -----------------------------------------------------------------*/
 
 
@@ -4385,6 +4385,7 @@ body:not(.device-touch) .portfolio {
     display: block;
     width: 100%;
     height: auto;
+    box-shadow: 0 2px 6px 0 rgb(0 0 0 / 18%);
 }
 
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .portfolio-image img {
@@ -4420,6 +4421,12 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .port
     display: block;
     margin-top: 3px;
     color: #888;
+}
+
+.portfolio-desc p {
+    display: block;
+    margin-top: 3px;
+    color: #00a2e2;
 }
 
 .portfolio-desc span a {
@@ -5706,7 +5713,7 @@ body.device-touch.device-xs .portfolio-notitle .portfolio-overlay {
 
 
 /* ----------------------------------------------------------------
-	Blog
+    Blog
 -----------------------------------------------------------------*/
 
 #posts {
@@ -6426,7 +6433,7 @@ body:not(.device-touch) .entry-link {
 
 
 /* ----------------------------------------------------------------
-	Blog - Author
+    Blog - Author
 -----------------------------------------------------------------*/
 
 .author-image {
@@ -6443,7 +6450,7 @@ body:not(.device-touch) .entry-link {
 
 
 /* ----------------------------------------------------------------
-	Comments List
+    Comments List
 -----------------------------------------------------------------*/
 
 #comments {
@@ -6618,7 +6625,7 @@ body:not(.device-touch) .entry-link {
 
 
 /* ----------------------------------------------------------------
-	Comment Form
+    Comment Form
 -----------------------------------------------------------------*/
 
 #respond,
@@ -6791,7 +6798,7 @@ p.wp-caption-text {
 
 
 /* ----------------------------------------------------------------
-	Shop
+    Shop
 -----------------------------------------------------------------*/
 
 .shop {
@@ -7237,7 +7244,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .product-overlay a {
 
 
 /* ----------------------------------------------------------------
-	Cart
+    Cart
 -----------------------------------------------------------------*/
 
 .cart .remove {
@@ -7309,7 +7316,7 @@ td.actions {
 
 
 /* ----------------------------------------------------------------
-	Events
+    Events
 -----------------------------------------------------------------*/
 
 .events .entry,
@@ -7518,13 +7525,13 @@ td.actions {
 
 /* ----------------------------------------------------------------
 
-	Countdown
+    Countdown
 
 -----------------------------------------------------------------*/
 
 
 /* ----------------------------------------------------------------
-	Countdown
+    Countdown
 -----------------------------------------------------------------*/
 
 .countdown {
@@ -7651,7 +7658,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 
 
 /* ----------------------------------------------------------------
-	Buttons
+    Buttons
 -----------------------------------------------------------------*/
 
 .button {
@@ -8472,7 +8479,7 @@ body:not(.device-touch) .button.button-full strong {
 
 
 /* ----------------------------------------------------------------
-	Promo Boxes
+    Promo Boxes
 -----------------------------------------------------------------*/
 
 .promo {
@@ -8749,7 +8756,7 @@ body:not(.device-touch) .button.button-full strong {
 
 
 /* ----------------------------------------------------------------
-	Featured Boxes
+    Featured Boxes
 -----------------------------------------------------------------*/
 
 .feature-box {
@@ -9478,7 +9485,7 @@ body:not(.device-touch) .button.button-full strong {
 
 
 /* ----------------------------------------------------------------
-	Flipbox
+    Flipbox
 -----------------------------------------------------------------*/
 
 .flipbox {
@@ -9537,7 +9544,7 @@ body:not(.device-touch) .button.button-full strong {
 
 
 /* ----------------------------------------------------------------
-	Process Steps
+    Process Steps
 -----------------------------------------------------------------*/
 
 .process-steps {
@@ -9617,7 +9624,7 @@ body:not(.device-touch) .button.button-full strong {
 
 
 /* ----------------------------------------------------------------
-	Alerts
+    Alerts
 -----------------------------------------------------------------*/
 
 .style-msg,
@@ -9714,7 +9721,7 @@ body:not(.device-touch) .button.button-full strong {
 
 
 /* ----------------------------------------------------------------
-	Styled Icons
+    Styled Icons
 -----------------------------------------------------------------*/
 
 .i-rounded,
@@ -9962,7 +9969,7 @@ body:not(.device-touch) .social-icon {
 
 
 /* ----------------------------------------------------------------
-	Icon Overlay
+    Icon Overlay
 -----------------------------------------------------------------*/
 
 .i-overlay,
@@ -10020,7 +10027,7 @@ body:not(.device-touch) .on-hover.i-overlay {
 
 
 /* ----------------------------------------------------------------
-	Social Icons
+    Social Icons
 -----------------------------------------------------------------*/
 
 .social-icon {
@@ -10867,7 +10874,7 @@ body:not(.device-touch) .social-icon i {
 
 
 /* ----------------------------------------------------------------
-	Toggle
+    Toggle
 -----------------------------------------------------------------*/
 
 .toggle {
@@ -10999,7 +11006,7 @@ body:not(.device-touch) .social-icon i {
 
 
 /* ----------------------------------------------------------------
-	Accordions
+    Accordions
 -----------------------------------------------------------------*/
 
 .accordion {
@@ -11121,7 +11128,7 @@ body:not(.device-touch) .social-icon i {
 
 
 /* ----------------------------------------------------------------
-	Tabs
+    Tabs
 -----------------------------------------------------------------*/
 
 .tabs {
@@ -11445,7 +11452,7 @@ ul.tab-nav li a i {
 
 
 /* ----------------------------------------------------------------
-	Side Navigation
+    Side Navigation
 -----------------------------------------------------------------*/
 
 .sidenav {
@@ -11554,7 +11561,7 @@ ul.tab-nav li a i {
 
 
 /* ----------------------------------------------------------------
-	FAQ List
+    FAQ List
 -----------------------------------------------------------------*/
 
 .faqlist li {
@@ -11572,7 +11579,7 @@ ul.tab-nav li a i {
 
 
 /* ----------------------------------------------------------------
-	Clients
+    Clients
 -----------------------------------------------------------------*/
 
 .clients-grid,
@@ -11661,7 +11668,7 @@ body:not(.device-touch) .clients-grid li a {
 
 
 /* ----------------------------------------------------------------
-	Testimonials
+    Testimonials
 -----------------------------------------------------------------*/
 
 
@@ -11913,7 +11920,7 @@ body:not(.device-touch) .clients-grid li a {
 
 
 /* ----------------------------------------------------------------
-	Team
+    Team
 -----------------------------------------------------------------*/
 
 .team,
@@ -12062,7 +12069,7 @@ body:not(.device-touch) .team-overlay {
 
 
 /* ----------------------------------------------------------------
-	Pricing Boxes
+    Pricing Boxes
 -----------------------------------------------------------------*/
 
 .pricing {
@@ -12351,7 +12358,7 @@ body:not(.device-touch) .team-overlay {
 
 
 /* ----------------------------------------------------------------
-	Counter
+    Counter
 -----------------------------------------------------------------*/
 
 .counter {
@@ -12411,7 +12418,7 @@ body:not(.device-touch) .team-overlay {
 
 
 /* ----------------------------------------------------------------
-	Animated Rounded Skills
+    Animated Rounded Skills
 -----------------------------------------------------------------*/
 
 .rounded-skill {
@@ -12447,7 +12454,7 @@ body:not(.device-touch) .rounded-skill {
 
 
 /* ----------------------------------------------------------------
-	Skills Bar
+    Skills Bar
 -----------------------------------------------------------------*/
 
 .skills {
@@ -12541,7 +12548,7 @@ body:not(.device-touch) .rounded-skill {
 
 
 /* ----------------------------------------------------------------
-	Quotes & Blockquotes
+    Quotes & Blockquotes
 -----------------------------------------------------------------*/
 
 blockquote p {
@@ -12609,7 +12616,7 @@ blockquote.float-right {
 
 
 /* ----------------------------------------------------------------
-	Dropcaps & Highlights
+    Dropcaps & Highlights
 -----------------------------------------------------------------*/
 
 .dropcap {
@@ -12629,7 +12636,7 @@ blockquote.float-right {
 
 
 /* ----------------------------------------------------------------
-	Text Rotater
+    Text Rotater
 -----------------------------------------------------------------*/
 
 .text-rotater {}
@@ -12640,7 +12647,7 @@ blockquote.float-right {
 
 
 /* ----------------------------------------------------------------
-	Owl Carousel CSS
+    Owl Carousel CSS
 -----------------------------------------------------------------*/
 
 .owl-carousel .animated {
@@ -12994,7 +13001,7 @@ blockquote.float-right {
 
 
 /* ----------------------------------------------------------------
-	Overlays
+    Overlays
 -----------------------------------------------------------------*/
 
 .overlay {
@@ -13138,7 +13145,7 @@ body:not(.device-touch) .text-overlay {
 
 
 /* ----------------------------------------------------------------
-	Forms
+    Forms
 -----------------------------------------------------------------*/
 
 .sm-form-control {
@@ -13235,7 +13242,7 @@ form .col_five_sixth {
 
 
 /* ----------------------------------------------------------------
-	Contact Form
+    Contact Form
 -----------------------------------------------------------------*/
 
 #contact-form-overlay,
@@ -13281,7 +13288,7 @@ input[type=checkbox]:not(:checked) + label.error {
 
 
 /* ----------------------------------------------------------------
-	Google Maps
+    Google Maps
 -----------------------------------------------------------------*/
 
 #google-map {
@@ -13313,7 +13320,7 @@ input[type=checkbox]:not(:checked) + label.error {
 
 
 /* ----------------------------------------------------------------
-	Google Custom Search
+    Google Custom Search
 -----------------------------------------------------------------*/
 
 #content .cse .gsc-control-cse,
@@ -13357,7 +13364,7 @@ input[type=checkbox]:not(:checked) + label.error {
 
 
 /* ----------------------------------------------------------------
-	Heading Styles
+    Heading Styles
 -----------------------------------------------------------------*/
 
 
@@ -13669,7 +13676,7 @@ input[type=checkbox]:not(:checked) + label.error {
 
 
 /* ----------------------------------------------------------------
-	Divider
+    Divider
 -----------------------------------------------------------------*/
 
 .divider {
@@ -13848,7 +13855,7 @@ input[type=checkbox]:not(:checked) + label.error {
 
 
 /* ----------------------------------------------------------------
-	Magazine Specific Classes
+    Magazine Specific Classes
 -----------------------------------------------------------------*/
 
 .top-advert {
@@ -13880,7 +13887,7 @@ input[type=checkbox]:not(:checked) + label.error {
 
 
 /* ----------------------------------------------------------------
-	Go To Top
+    Go To Top
 -----------------------------------------------------------------*/
 
 #gotoTop {
@@ -13919,7 +13926,7 @@ body:not(.device-touch) #gotoTop {
 
 
 /* ----------------------------------------------------------------
-	Error 404
+    Error 404
 -----------------------------------------------------------------*/
 
 .error404 {
@@ -13960,7 +13967,7 @@ body:not(.device-touch) #gotoTop {
 
 
 /* ----------------------------------------------------------------
-	Landing Pages
+    Landing Pages
 -----------------------------------------------------------------*/
 
 .landing-wide-form {
@@ -13998,7 +14005,7 @@ body:not(.device-touch) #gotoTop {
 
 
 /* ----------------------------------------------------------------
-	Preloaders
+    Preloaders
 -----------------------------------------------------------------*/
 
 .preloader,
@@ -14023,7 +14030,7 @@ body:not(.device-touch) #gotoTop {
 
 
 /* ----------------------------------------------------------------
-	Toastr Notifications
+    Toastr Notifications
 -----------------------------------------------------------------*/
 
 .toast-title {
@@ -14268,7 +14275,7 @@ button.toast-close-button {
 
 
 /* ----------------------------------------------------------------
-	Footer
+    Footer
 -----------------------------------------------------------------*/
 
 #footer {
@@ -14397,7 +14404,7 @@ button.toast-close-button {
 
 
 /* ----------------------------------------------------------------
-	Widgets
+    Widgets
 -----------------------------------------------------------------*/
 
 .widget {
@@ -14880,7 +14887,7 @@ body:not(.device-touch) .tagcloud a {
 
 
 /* ----------------------------------------------------------------
-	Wedding
+    Wedding
 -----------------------------------------------------------------*/
 
 .wedding-head {
@@ -14926,7 +14933,7 @@ body:not(.device-touch) .tagcloud a {
 
 
 /* ----------------------------------------------------------------
-	Bootstrap Specific
+    Bootstrap Specific
 -----------------------------------------------------------------*/
 
 .table .success {
@@ -15019,7 +15026,7 @@ label.checkbox {
 
 
 /* ----------------------------------------------------------------
-	Cookie Notification
+    Cookie Notification
 -----------------------------------------------------------------*/
 
 #cookie-notification {
@@ -15045,7 +15052,7 @@ label.checkbox {
 
 
 /* ----------------------------------------------------------------
-	Stretched Layout
+    Stretched Layout
 -----------------------------------------------------------------*/
 
 .stretched #wrapper {
@@ -15056,7 +15063,7 @@ label.checkbox {
 
 
 /* ----------------------------------------------------------------
-	Page Transitions
+    Page Transitions
 -----------------------------------------------------------------*/
 
 body:not(.no-transition) #wrapper,
@@ -16082,7 +16089,7 @@ body:not(.no-transition) #wrapper,
 
 
 /* ----------------------------------------------------------------
-	HTML5 Youtube Video Backgrounds
+    HTML5 Youtube Video Backgrounds
 -----------------------------------------------------------------*/
 
 .mb_YTVPlayer:focus {
@@ -16143,7 +16150,7 @@ body:not(.no-transition) #wrapper,
 
 
 /* ----------------------------------------------------------------
-	Datepicker Component
+    Datepicker Component
 -----------------------------------------------------------------*/
 
 .datepicker td,
@@ -16153,7 +16160,7 @@ body:not(.no-transition) #wrapper,
 
 
 /* ----------------------------------------------------------------
-	Star Ratings Component
+    Star Ratings Component
 -----------------------------------------------------------------*/
 
 .rating-xl {
