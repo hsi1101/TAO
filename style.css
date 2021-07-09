@@ -4198,7 +4198,7 @@ body:not(.device-touch) .grid-container {
 }
 
 .portfolio-filter li a:hover {
-    color: #1ABC9C;
+    color: #00a2e2;
 }
 
 .portfolio-filter li.activeFilter a {
@@ -4414,7 +4414,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .port
 }
 
 .portfolio-desc h3 a:hover {
-    color: #1ABC9C;
+    color: #00a2e2;
 }
 
 .portfolio-desc span {
